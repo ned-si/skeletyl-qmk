@@ -51,3 +51,5 @@
 #    define RGB_DISABLE_WHEN_USB_SUSPENDED
 #    define RGB_MATRIX_KEYPRESSES
 #endif
+
+#define RGB_DI_PIN D3
